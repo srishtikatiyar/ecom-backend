@@ -1,0 +1,2 @@
+clientid=503674507819-905sefp424mrc4ilh4eqpjctm17nrre6.apps.googleusercontent.com
+client secret=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
